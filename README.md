@@ -1,11 +1,5 @@
 # I'm Ivan Buzhinsky, 20 y.o. Hi there 👋
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=buzhinin4&theme=dark&background=000000" alt="GitHub Streak">
-  </a>
-</p>
-
 ---
 
 ## 📞 Contact Information
